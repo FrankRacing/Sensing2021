@@ -1,0 +1,3 @@
+[submodule "parts/OEM_Preferred_Parts"]
+	path = parts/OEM_Preferred_Parts
+	url = https://github.com/FrankRacing/OEM_Preferred_Parts.git
